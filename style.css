@@ -15,6 +15,9 @@ body {
     justify-content: center;
     flex-direction: column;
 }
+.fa {
+    color: blue;
+}
 
 .header {
     display: flex;
